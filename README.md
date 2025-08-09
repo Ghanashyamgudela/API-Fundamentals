@@ -35,8 +35,8 @@ cd userverse-api
 # 2. Install your warp drive
 pip install flask
 
-Server at
-🌍 http://127.0.0.1:5000
-
 # 3. Engage!
 python app.py
+
+Server at
+🌍 http://127.0.0.1:5000
